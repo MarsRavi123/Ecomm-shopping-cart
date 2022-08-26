@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecomm-shopping-cart/static/css/main.2830a24b.css",
+    "main.js": "/Ecomm-shopping-cart/static/js/main.5617b263.js",
+    "static/js/787.34115356.chunk.js": "/Ecomm-shopping-cart/static/js/787.34115356.chunk.js",
+    "index.html": "/Ecomm-shopping-cart/index.html",
+    "main.2830a24b.css.map": "/Ecomm-shopping-cart/static/css/main.2830a24b.css.map",
+    "main.5617b263.js.map": "/Ecomm-shopping-cart/static/js/main.5617b263.js.map",
+    "787.34115356.chunk.js.map": "/Ecomm-shopping-cart/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2830a24b.css",
+    "static/js/main.5617b263.js"
+  ]
+}
